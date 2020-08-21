@@ -1,0 +1,3 @@
+QSizePolicy policy;
+policy.setwidthforheight(true);
+ui->widget->setSizepolicy(policy);
